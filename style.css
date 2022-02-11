@@ -11,7 +11,7 @@ h1{
 #infotable{
   table-layout: auto;
   border: solid 1px #000000; 
-  
+  line-height: 300%;
 }
 
 #pagelinks{
