@@ -1,0 +1,23 @@
+body{
+  font-family: monospace;
+  background: #312f4d
+}
+
+h1{
+  color:bisque;
+}
+
+#infotable{
+  table-layout: auto;
+  border: solid 1px #000000; 
+  
+}
+
+#pagelinks{
+  line-height: 200%;
+} 
+
+div.secret{
+  color: #312f4d
+  /*秘密のリンク*/
+}
